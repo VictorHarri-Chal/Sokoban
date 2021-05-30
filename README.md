@@ -15,6 +15,6 @@ The player is confined to the board, and may move horizontally or vertically ont
 ## Getting Started
 Execute ```make``` then ```./my_sokoban map.txt```
 
-You can edit the map file representing the warehouse map, it must have the same amount of boxes `X` and storage location `O`. The player is represented by a `P` and walls by `#`.
+You can edit the map file representing the warehouse map, it must have the same amount of boxes `X` and storage locations `O`. The player is represented by a `P` and walls by `#`.
 
 ![MY_SOKOBAN](my_sokoban.png)
